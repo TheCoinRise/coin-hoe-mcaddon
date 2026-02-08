@@ -1,5 +1,7 @@
 # Coin Hoe Addon
 
+![Coin Hoe](coinhoe-logo-mc.png)
+
 A Minecraft Bedrock Edition addon that adds the **Coin Hoe** - a special golden hoe that can break any block instantly with silk touch.
 
 ## Features

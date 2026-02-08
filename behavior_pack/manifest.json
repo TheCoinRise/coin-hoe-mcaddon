@@ -2,9 +2,9 @@
   "format_version": 2,
   "header": {
     "name": "Coin Hoe Behavior Pack",
-    "description": "Adds the Coin Hoe - an instant silk touch mining tool",
+    "description": "Adds the Coin Hoe - an instant mining tool with normal drops",
     "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-    "version": [1, 0, 0],
+    "version": [1, 1, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [

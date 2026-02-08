@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Coin Hoe",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "coin_hoe": {
+      "textures": "textures/items/coin_hoe"
+    }
+  }
+}

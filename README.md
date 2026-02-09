@@ -57,7 +57,20 @@ Or create your own 16x16 PNG texture.
 
 ## Usage
 
-### Getting the Item
+### Crafting Recipe
+
+Craft the Coin Hoe at a crafting table:
+
+```
+[Cobblestone] [Cobblestone] [Cobblestone]
+              [Wooden Hoe]
+```
+
+**Ingredients:**
+- 3x Cobblestone
+- 1x Wooden Hoe
+
+### Getting the Item (Alternative)
 
 Use the give command:
 ```

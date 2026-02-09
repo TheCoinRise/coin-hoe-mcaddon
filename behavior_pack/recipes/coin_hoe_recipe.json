@@ -1,0 +1,31 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "coin:coin_hoe_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "CCC",
+      " H ",
+      "   "
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:cobblestone"
+      },
+      "H": {
+        "item": "minecraft:wooden_hoe"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+    "result": {
+      "item": "coin:coin_hoe",
+      "count": 1
+    }
+  }
+}

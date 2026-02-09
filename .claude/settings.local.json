@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del CoinHoe.mcaddon)",
+      "Bash(powershell Compress-Archive -Path \"behavior_pack\", \"resource_pack\" -DestinationPath \"CoinHoe.zip\" -Force)",
+      "Bash(ren:*)",
+      "Bash(powershell -Command \"cd ''S:\\\\Crypto\\\\AppFactory\\\\Minecraft\\\\Coin Hoe\\\\AppFactory\\\\coin-hoe-mcaddon''; Remove-Item ''CoinHoe.mcaddon'' -Force -ErrorAction SilentlyContinue; Compress-Archive -Path ''behavior_pack'', ''resource_pack'' -DestinationPath ''CoinHoe.zip'' -Force; Rename-Item ''CoinHoe.zip'' ''CoinHoe.mcaddon''\")",
+      "Bash(powershell -Command:*)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "github",
+    "playwright",
+    "filesystem",
+    "context7",
+    "semgrep",
+    "repo-mode-launch"
+  ],
+  "enableAllProjectMcpServers": true
+}

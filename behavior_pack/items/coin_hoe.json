@@ -72,6 +72,166 @@
           {
             "block": "minecraft:bedrock",
             "speed": 9999
+          },
+          {
+            "block": "minecraft:netherrack",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:nether_brick",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:red_nether_brick",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:nether_brick_stairs",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:basalt",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:polished_basalt",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:smooth_basalt",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:blackstone",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:polished_blackstone",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:polished_blackstone_bricks",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:chiseled_polished_blackstone",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:cracked_polished_blackstone_bricks",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:gilded_blackstone",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:glowstone",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:soul_soil",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:nether_wart_block",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:warped_wart_block",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:shroomlight",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:crimson_stem",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:warped_stem",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:stripped_crimson_stem",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:stripped_warped_stem",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:crimson_hyphae",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:warped_hyphae",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:stripped_crimson_hyphae",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:stripped_warped_hyphae",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:crimson_planks",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:warped_planks",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:nether_gold_ore",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:quartz_ore",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:quartz_block",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:quartz_bricks",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:quartz_pillar",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:smooth_quartz",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:chiseled_quartz_block",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:magma",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:bone_block",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:nether_brick_fence",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:crimson_nylium",
+            "speed": 9999
+          },
+          {
+            "block": "minecraft:warped_nylium",
+            "speed": 9999
           }
         ]
       },
@@ -80,6 +240,9 @@
           "minecraft:is_tool",
           "minecraft:is_hoe"
         ]
+      },
+      "minecraft:damage": {
+        "value": 9999
       }
     }
   }
